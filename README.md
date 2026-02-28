@@ -50,7 +50,7 @@ Production-style Flutter Android app for Air Quality monitoring and Smart Air Pu
 👤 Author
 
 Nausheen Saifi
-MCA | Flutter & Frontend Developer
+MCA | Flutter & Frontend Developer <br>
 GitHub: https://github.com/Nausheen01
 
 
