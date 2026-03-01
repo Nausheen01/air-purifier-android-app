@@ -35,6 +35,7 @@ Production-style Flutter Android app for Air Quality monitoring and Smart Air Pu
 
 ### Run locally
 
+- flutter clean
 - flutter pub get
 - flutter run
   
