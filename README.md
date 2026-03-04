@@ -52,7 +52,7 @@ Production-style Flutter Android app for Air Quality monitoring and Smart Air Pu
 
 Nausheen Saifi
 MCA | Flutter & Frontend Developer <br>
-GitHub: (https://github.com/Nausheen01/air-purifier-android-app/) <br>
+GitHub: (https://github.com/Nausheen01/air-purifier-android-app/) <br> <br>
 
 ⭐ If you like this project, don't forget to give it a star on GitHub!
 
