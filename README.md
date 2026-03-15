@@ -56,7 +56,7 @@ GitHub: (https://github.com/Nausheen01/air-purifier-android-app/) <br> <br>
 
 ⭐ If you like this project, don't forget to give it a star on GitHub!
 <br>
-Thank you for support
+Thank you for your support
 
 
 
