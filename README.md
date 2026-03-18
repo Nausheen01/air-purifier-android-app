@@ -15,7 +15,7 @@ Production-style Flutter Android app for Air Quality monitoring and Smart Air Pu
 - **Splash & Login** – Clean onboarding flow with animated logo and social login options.
   
   ## 📱 Screenshots
-   | Dashboard | Air Quality Detail | Device Control |
+   | Dashboard | Air Quality Detail | Device Control | settings
 
   ## 🛠️ Tech Stack
 - **Framework**: Flutter (3.16+)
