@@ -1,0 +1,41 @@
+name: air_purifier_app
+description: Air Purifier Application
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  flutter_svg: ^2.0.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+  # ✅ THIS FIXES WHITE SCREEN BEFORE SPLASH
+  flutter_native_splash: ^2.4.1
+
+
+flutter:
+  uses-material-design: true
+
+  assets:  
+    - assets/icons/
+    - assets/images/
+
+
+# ✅ Native Splash Configuration
+flutter_native_splash:
+  color: "#EAF3FF"          # same light blue as your splash
+  android_12:
+    color: "#EAF3FF"
