@@ -559,3 +559,4 @@ class _DashboardScreenState extends State<DashboardScreen>
     );
   }
 }
+// change the Aqi bar
