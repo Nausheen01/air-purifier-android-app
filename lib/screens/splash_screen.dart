@@ -1,4 +1,4 @@
-// splas screen 
+// splash screen 
 
 import 'dart:async';
 import 'dart:math' as math;
