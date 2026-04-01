@@ -1,4 +1,4 @@
-// splash screen 
+// splash screen 3 sec
 
 import 'dart:async';
 import 'dart:math' as math;
