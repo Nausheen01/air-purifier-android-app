@@ -1,4 +1,4 @@
-// Air quality screen dashboard
+// Air quality screen dashboards
 
 import 'dart:async';
 import 'dart:math' as math;
