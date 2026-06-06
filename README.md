@@ -1,4 +1,4 @@
-# air-purifier-android-app
+## air-purifier-android-app
 Production-style Flutter Android app for Air Quality monitoring and Smart Air Purifier control with animated dashboard UI and modern UX.
 
 **Air Purifier+** is a beautifully designed mobile application that provides real‑time air quality monitoring and intelligent control for your air purifier. Built with Flutter, it delivers a smooth, native experience on Android (and soon iOS). The app features an elegant dashboard, live AQI tracking, pollutant breakdowns, and smart device controls – all wrapped in a modern, animated UI.
